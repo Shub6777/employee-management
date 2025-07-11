@@ -1,0 +1,14 @@
+# Java - Spring Boot
+employee-backendtarget
+employee-backend.idea
+employee-backend.classpath
+employee-backend.project
+
+# Node - React
+employee-uinode_modules
+employee-ui.env
+employee-uibuild
+
+# OS
+.DS_Store
+Thumbs.db
